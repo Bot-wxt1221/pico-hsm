@@ -22,8 +22,8 @@
 #include "file.h"
 
 #define EF_DEVOPS       0x100E
-#define EF_MKEK         0x100A
-#define EF_MKEK_SO      0x100B
+#define EF_MKEK_HSM         0x100A
+#define EF_MKEK_SO_HSM      0x100B
 #define EF_XKEK         0x1070
 #define EF_PIN1         0x1081
 #define EF_PIN1_MAX_RETRIES 0x1082
